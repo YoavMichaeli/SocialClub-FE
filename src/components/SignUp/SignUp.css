@@ -1,0 +1,12 @@
+.authALink {
+    font-weight: bold;
+    color: teal;
+}
+
+#title {
+    float: left;
+}
+
+#signUpGrid {
+    margin-top: auto;
+}
