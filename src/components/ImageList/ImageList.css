@@ -1,0 +1,27 @@
+.ui.special.cards:first-child .card:first-child {
+    margin-top: 36.5px;
+}
+
+.ui.special.cards {
+    margin-right: 10px;
+}
+
+.imageList {
+    display: flex;
+    flex-wrap: wrap;
+    width: 105%;
+    max-width: 105%;
+}
+
+#cardImage {
+    height: 200px;
+    width: 290px;
+}
+
+#noResultMessage {
+    margin-top: 15px;
+}
+
+.notFoundText {
+    font-size: 3px;
+}
