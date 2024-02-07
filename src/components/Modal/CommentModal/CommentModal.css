@@ -1,0 +1,17 @@
+#description {
+    margin-left: 15px;
+}
+
+#commentHeader {
+    font-size: 20px;
+}
+
+#commentDescription {
+    font-size: 18px;
+}
+
+#addCommentContainer {
+    margin-top: 10px;
+    display: flex; 
+    justify-content: center;
+}
