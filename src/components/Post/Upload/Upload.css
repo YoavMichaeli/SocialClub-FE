@@ -1,0 +1,17 @@
+#captionTitle {
+    float: left;
+}
+
+#mainContainer {
+    border-radius: 4px;
+    padding: 20px;
+    background-color: azure;
+}
+
+#title {
+    margin-bottom: 10px;
+}
+
+#wideContainer {
+    margin-top: 50px;
+}
