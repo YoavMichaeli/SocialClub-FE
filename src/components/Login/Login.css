@@ -1,0 +1,30 @@
+.ui[class*="center aligned"].grid {
+    justify-content: center;
+}
+.ui.grid {
+    margin-top: 10%;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+.ui.grid {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: center;
+    padding: 10em;
+}
+
+.content {
+    font-size: 40px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+.authALink {
+    font-weight: bold;
+    color: teal;
+}
+
+#loginContainer {    
+    margin-top: auto;
+}
